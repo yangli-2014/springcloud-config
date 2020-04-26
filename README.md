@@ -1,2 +1,2 @@
 # springcloud-config
-springcloud config 学习
+springcloud config 的配置中心  学习
